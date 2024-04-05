@@ -22,4 +22,4 @@ sql dump file:
 - db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
-# A minoe deit to trigger build 2
+# A minoe deit to trigger build 3
